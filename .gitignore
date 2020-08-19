@@ -1,0 +1,9 @@
+*.png
+*.gz
+*.jpg
+*.pyc
+*.mp4
+*.mkv
+*.pth
+BASNet/__pycache__/
+__pycache__/
